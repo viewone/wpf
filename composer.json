@@ -1,6 +1,7 @@
 {
     "name": "viewone/wp-cms",
     "description": "CMS for WordPress.",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Piotr Kierzniewski",
